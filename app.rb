@@ -24,4 +24,3 @@ class App < Sinatra::Base
     "#{@num1_num2}.to_i"
   end
 end
-end 
